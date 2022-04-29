@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # 👋   I'm Victor Chow
 
 *Who Is This Guy ?* 
+<img align="right" src="https://komarev.com/ghpvc/?username=VictorChow&label=PROFILE+VIEWS&color=5594F1&style=for-the-badge"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=VictorChow&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=false" />
 
