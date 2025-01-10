@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # 👋   I'm Victor Chow
+<img align="right" src="https://komarev.com/ghpvc/?username=VictorChow&label=PROFILE+VIEWS&color=5594F1&style=for-the-badge"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=611D7F&width=435&lines=Help+me!+I'm+trapped+in+the+code!!!+)](https://git.io/typing-svg)
-
-<img align="right" src="https://komarev.com/ghpvc/?username=VictorChow&label=PROFILE+VIEWS&color=5594F1&style=for-the-badge"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=VictorChow&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=false" />
 
