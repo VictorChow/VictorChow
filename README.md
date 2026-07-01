@@ -28,24 +28,22 @@ A developer who passionate about Android reverse engineering and backend technol
 
 ## 🛠️ Languages and Tools :
 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/></a>
-<a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" alt="android" width="45" height="45"/></a>
-<a href="https://lsposed.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/75879071" alt="lsposed" width="45" height="45"/></a>
-<a href="https://frida.re/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/4073090" alt="frida" width="45" height="45"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="45" height="45"/></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react native" width="45" height="45"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/></a>
-<a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="gradle" width="45" height="45"/></a>
-<a href="https://www.oracle.com/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/></a>
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/></a>
-<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij idea" width="45" height="45"/></a>
-<a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="45" height="45"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>
-<a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="45" height="45"/></a>
-
+<a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://devicons.io/devicons/icons/claude-icon.svg" width="45" height="45"/></a>
+<a href="https://chatgpt.com/" target="_blank" rel="noreferrer"><img src="https://devicons.io/devicons/icons/openai-icon.svg" width="45" height="45"/></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://devicons.io/devicons/icons/java.svg" width="45" height="45"/></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://devicons.io/devicons/icons/kotlin-icon.svg" width="45" height="45"/></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://devicons.io/devicons/icons/spring.svg" width="45" height="45"/></a>
+<a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="https://devicons.io/devicons/icons/android.svg" width="45" height="45"/></a>
+<a href="https://lsposed.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/75879071" width="45" height="45"/></a>
+<a href="https://frida.re/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/4073090" width="45" height="45"/></a>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://devicons.io/devicons/icons/maven.svg" width="45" height="45"/></a>
+<a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="https://devicons.io/devicons/icons/gradle.svg" width="45" height="45"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://devicons.io/devicons/icons/mysql.svg" width="45" height="45"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://devicons.io/devicons/icons/docker-icon.svg" width="45" height="45"/></a>
+<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://devicons.io/devicons/icons/intellij-idea.svg" width="45" height="45"/></a>
+<a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="45" height="45"/></a>
+<a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer"><img src="https://devicons.io/devicons/icons/markdown.svg" width="45" height="45"/></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://devicons.io/devicons/icons/vue.svg" width="45" height="45"/></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://devicons.io/devicons/icons/react.svg" width="45" height="45"/></a>
 
 
