@@ -32,16 +32,11 @@ Help me! I'm trapped in the code.
 ```txt id="d2r7te"
 Hi, I'm Victor Chow.
 
-I like code paths that can be traced,
-bugs that can be reproduced,
-systems that explain themselves,
-and tools that make hidden behavior visible.
+💻 I love code more than my imaginary girlfriend.
+🌱 Always curious about new technologies.
+🧘 Meditation, calm thinking, and deterministic debugging.
+🐱 Not a cat. Probably.
 ```
-
-- 💻 I love code more than my imaginary girlfriend.
-- 🌱 Always curious about new technologies.
-- 🧘 Meditation, calm thinking, and deterministic debugging.
-- 🐱 Not a cat. Probably.
 
 ---
 
@@ -78,8 +73,6 @@ and tools that make hidden behavior visible.
   &nbsp;
   <img src="https://devicons.io/devicons/icons/claude-icon.svg" width="48" height="48"/>
 </p>
-
----
 
 <div align="center">
 
