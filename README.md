@@ -45,33 +45,65 @@ Hi, I'm Victor Chow.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,vue,react,md,bash" />
+<img src="https://skillicons.dev/icons?i=java" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=kotlin" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=vue" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=react" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=md" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=bash" />
 </p>
 
 ### Backend / Runtime
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,maven,gradle,mysql,docker,linux" />
+<img src="https://skillicons.dev/icons?i=spring" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=maven" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=gradle" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=apple" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ### Android / Reverse Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio" />
-  &nbsp;
-  <img src="https://avatars.githubusercontent.com/u/4073090" width="48" height="48"/>
-  &nbsp;
-  <img src="https://avatars.githubusercontent.com/u/75879071" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=androidstudio" />
+&nbsp;
+<img src="https://avatars.githubusercontent.com/u/4073090" width="48" height="48"/>
+&nbsp;
+<img src="https://avatars.githubusercontent.com/u/75879071" width="48" height="48"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=githubactions" />
 </p>
 
 ### IDE / Tools / AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github" />
-  &nbsp;
-  <img src="https://devicons.io/devicons/icons/openai-icon.svg" width="48" height="48"/>
-  &nbsp;
-  <img src="https://devicons.io/devicons/icons/claude-icon.svg" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=idea" />
+&nbsp;
+<img src="https://avatars.githubusercontent.com/in/1549082?v=4&size=48"  width="48" height="48"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=git" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=github" />
+&nbsp;
+<img src="https://devicons.io/devicons/icons/openai-icon.svg" width="48" height="48"/>
+&nbsp;
+<img src="https://devicons.io/devicons/icons/claude-icon.svg" width="48" height="48"/>
 </p>
 
 <div align="center">
